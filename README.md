@@ -1,5 +1,35 @@
 # Getting Started with Create React App
 
+Number and name of feature: __First Feature_____________________________
+
+Estimate of time needed to complete: __1hr___
+
+Start time: __1:55pm__
+
+Finish time: 2:48pm__
+
+Actual time needed to complete: __1 hr___
+
+Number and name of feature: __Second Feature_____________________________
+
+Estimate of time needed to complete: __1hr___
+
+Start time: __3:19pm__
+
+Finish time: __
+
+Actual time needed to complete: __1 hr___
+
+Number and name of feature: __Three Feature_____________________________
+
+Estimate of time needed to complete: __1hr___
+
+Start time: ____
+
+Finish time: __
+
+Actual time needed to complete: _____
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
