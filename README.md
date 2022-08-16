@@ -16,7 +16,7 @@ Estimate of time needed to complete: __1hr___
 
 Start time: __3:19pm__
 
-Finish time: __
+Finish time: _3:42pm_
 
 Actual time needed to complete: __1 hr___
 
@@ -24,11 +24,11 @@ Number and name of feature: __Three Feature_____________________________
 
 Estimate of time needed to complete: __1hr___
 
-Start time: ____
+Start time: _4:00 pm___
 
-Finish time: __
+Finish time: _4:38 pm_
 
-Actual time needed to complete: _____
+Actual time needed to complete: _1 hr____
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
