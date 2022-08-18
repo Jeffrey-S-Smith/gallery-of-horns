@@ -1,6 +1,15 @@
 # Getting Started with Create React App
+Number and name of feature: Display a Modal
 
-Number and name of feature: __First Feature_____________________________
+Estimate of time needed to complete: ___2__
+
+Start time: __1:30___
+
+Finish time: 10:00 pm stills have to finish the close of my modal
+
+Actual time needed to complete: ___3__
+
+Number and name of feature: __First Feature__
 
 Estimate of time needed to complete: __1hr___
 
