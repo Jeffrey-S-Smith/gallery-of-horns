@@ -59,7 +59,7 @@ constructor(props){
         beast={this.state.beast}
         handleShowModal={this.handleShowModal}
         show={this.state.showModal} 
-        onHide={this.handleShowModal}
+        onHide={this.handleHideModal}
         />
         <Footer/>
         
