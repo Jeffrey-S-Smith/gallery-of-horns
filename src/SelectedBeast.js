@@ -11,7 +11,7 @@ class SelectedBeast extends React.Component {
      
        <Modal 
        show={this.props.show}
-      onHide={this.props.onHide}
+        onHide={this.props.onHide}
       // {...props}
       // size="lg"
       // aria-labelledby="contained-modal-title-vcenter"
